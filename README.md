@@ -6,11 +6,12 @@
  <a href="https://bischmitt.github.io/portfolio/">![](https://img.shields.io/badge/-Take_a_look_at_my_portfolio-c64f68)</a>
 
 # A few developing technologies I use
+![](https://img.shields.io/badge/OS-MacOs-informational?style=flat&logo=macos&logoColor=white&color=c64f68)  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=c64f68)
+![](https://img.shields.io/badge/IDE-Intellij-informational?style=flat&logo=intellijidea&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=c64f68)
 ![](https://img.shields.io/badge/Version_Control-GIT-informational?style=flat&logo=git&logoColor=white&color=c64f68)
-
 
 # Languages & Frameworks
 ![Javascript](https://img.shields.io/badge/-Javascript-2c292d?&logo=Javascript)
