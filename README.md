@@ -40,10 +40,10 @@
 # Statistics
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bischmitt&theme=dracula&show_icons=true&hide_border=true)](https://github.com/bischmitt/" width="600">  
+<img src="https://github-readme-stats.vercel.app/api?username=bischmitt&theme=dracula&show_icons=true&hide_border=true)](https://github.com/bischmitt98/" width="600">  
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bischmitt&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dracula" width="600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bischmitt98&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dracula" width="600">
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bischmitt&theme=dracula" width="600">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bischmitt98&theme=dracula" width="600">
